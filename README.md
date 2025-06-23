@@ -1,2 +1,11 @@
-# Covid-19-Impact-Analysis-Dashboard
-Developed a dynamic, interactive dashboard to visualize and analyze the real-time impact of COVID-19 across multiple countries and regions. Leveraged Dash and Plotly to create intuitive visualizations that allow users to explore trends in total cases, active cases, recoveries, and deaths. Key features included:
+# Text to Speech Translation 
+This project converts text input into natural-sounding speech using Text-to-Speech technology. It enables machines to "speak" by synthesizing human-like voice from written language.
+Converts plain text to speech
+
+🔉 Plays or downloads the generated audio
+
+🌐 Supports multiple languages and accents
+
+🧠 Uses AI-based speech synthesis (e.g., Google TTS, gTTS, pyttsx3, or Tacotron2)
+
+🖥️ Easy-to-use interface via CLI, GUI (Streamlit), or web app
